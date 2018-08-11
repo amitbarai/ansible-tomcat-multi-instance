@@ -11,7 +11,7 @@ comment "tomcat_install_redhat7" in site.yml file and use role "tomcat-install-u
 ### To instance name and port number use below path
 repo > role > rolename > var > main.yml 
 
-### Git repo address
+### Git repo address to clone repo
 
 https://github.com/amitbarai/tomcat-multi-instance/archive/master.zip
 
